@@ -1,0 +1,21 @@
+{
+  "name": "nm",
+  "version": "1.0.0",
+  "description": "Note manager.",
+  "author": "Ivan Yan",
+  "license": "MIT",
+  "private": true,
+  "repository": "yanxyz/nm",
+  "bin": {
+    "nm": "./lib/cli.js"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "debug": "^3.1.0",
+    "fs-extra": "^4.0.2",
+    "minimist": "^1.2.0",
+    "opn": "^5.1.0"
+  }
+}

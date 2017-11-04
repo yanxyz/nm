@@ -1,0 +1,14 @@
+{
+  "name": "nm",
+  "version": "1.0.0",
+  "description": "Note manager.",
+  "author": "Ivan Yan",
+  "license": "MIT",
+  "private": true,
+  "repository": "yanxyz/nm",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-send": "^4.1.1"
+  },
+  "devDependencies": {}
+}
